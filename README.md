@@ -60,6 +60,5 @@ print(f"Variance is : {var}")
 <img width="548" height="561" alt="image" src="https://github.com/user-attachments/assets/0bd90181-20d7-41e4-b345-70b67dabf2a3" />
 
 # Results:
-```
-Write the conclusion
-```
+
+The Huffman and Shannon-Fano coding techniques have been successfully applied to the given source. The average codeword length, entropy, variance, redundancy, and efficiency have been computed.
