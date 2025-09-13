@@ -51,13 +51,12 @@ print(f"Variance is : {var}")
 ```
 # Calculation:
 
-![WhatsApp Image 2025-09-11 at 19 54 13_d79a5c11](https://github.com/user-attachments/assets/da0b1bfc-49a1-46b3-a4d5-67b1e088d880)
-![WhatsApp Image 2025-09-11 at 19 54 13_a36ccc8f](https://github.com/user-attachments/assets/dfedf6cc-3ef1-4bc1-aa2e-d9ec123d1645)
+
 
 
 # Output
 
-<img width="548" height="561" alt="image" src="https://github.com/user-attachments/assets/0bd90181-20d7-41e4-b345-70b67dabf2a3" />
+
 
 # Results:
 
